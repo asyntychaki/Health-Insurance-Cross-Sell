@@ -6,6 +6,9 @@ The aim of this project is to analyse data of Health Insurance customers and pre
 2.
 3.
 
+## File Descriptions
+
+
 ## Results
 The findings of this analysis are discussed in an article that can be found [here]().
 
