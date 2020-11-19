@@ -1,0 +1,3 @@
+[submodule "Health-Insurance-Cross-Sell"]
+	path = Health-Insurance-Cross-Sell
+	url = https://github.com/asyntychaki/Health-Insurance-Cross-Sell.git
