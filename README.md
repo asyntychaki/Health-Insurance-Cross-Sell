@@ -2,9 +2,9 @@
 ## About:
 The aim of this project is to analyse data of Health Insurance customers and predict whether existing customers would be interested in an additional Vehicle Insurance. More specifically, this analysis is aimed to answer the following questions:
 
-1. Do customers that had their vehicle damaged in the past already have a vehicle Insurance?
-2. Is it more probable for customers that pay a higher premium amount to want a Vehicle Insurance? 
-(including both customers that already have an insurance and those that would be interested)
+1. Do customers that had their vehicle damaged in the past already have a vehicle Insurance? </n>
+2. Is it more probable for customers that pay a higher premium amount to want a Vehicle Insurance? </n>
+(including both customers that already have an insurance and those that would be interested) </n>
 3.Given all the data, predict whether a customer would be interested in a Vehicle Insurance.
 
 ## File Descriptions
