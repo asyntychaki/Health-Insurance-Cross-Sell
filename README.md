@@ -2,9 +2,9 @@
 ## About:
 The aim of this project is to analyse data of Health Insurance customers and predict whether existing customers would be interested in an additional Vehicle Insurance. More specifically, this analysis is aimed to answer the following questions:
 
-1. Is there any geographical region where customers are more likely to be interested in a Vehicle Insurance?
+1. Is there any age range in which customers are more likely to be interested in a Vehicle Insurance?
 2. Is it more probable for customers that pay a higher premium amount to want a Vehicle Insurance? (including both customers that already have an insurance and those that would be interested)
-3. Given all the data, predict whether a customer would be interested in a Vehicle Insurance.
+3. Taking into account all the data, predict whether a customer would be interested in a Vehicle Insurance.
 
 ## File Descriptions
 
