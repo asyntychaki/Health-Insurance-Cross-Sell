@@ -2,7 +2,7 @@
 ## About:
 The aim of this project is to analyse data of Health Insurance customers and predict whether existing customers would be interested in an additional Vehicle Insurance. More specifically, this analysis is aimed to answer the following questions:
 
-1. Is there any age range in which customers are more likely to be interested in a Vehicle Insurance?
+1. Is there any age range in which customers are more likely to be interested in a Vehicle Insurance? What is the difference between men and women?
 2. Are there any communication channels that are more successful in convincing customers?
 3. Taking into account all the data, predict whether a customer would be interested in a Vehicle Insurance.
 
