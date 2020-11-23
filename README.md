@@ -9,8 +9,8 @@ The aim of this project is to analyse data of Health Insurance customers and pre
 ## File Descriptions
 * <b>0-Initial.ipynb:</b> This is an initial exploratory analysis of the training data, to see the correlation of the response to the other variables.
 * <b>1-Age-Insurance.ipynb:</b> Here I do a further exploratory analysis to look at the age distribution of customers and to answer question 1.
-* <b>2-Channels-Insurance.ipynb:</b> Here we analyse the Policy Sales Channels in order to answer question 2.
-* <b>3-Predicting-Response.ipynb:</b> Here we preprocess the data and use a linear regression model in order to answer quastion 3.
+* <b>2-Channels-Insurance.ipynb:</b> Here I analyse the Policy Sales Channels in order to answer question 2.
+* <b>3-Predicting-Response.ipynb:</b> Here I preprocess the data and use a linear regression model in order to answer question 3.
 * <b>data:</b> The train.csv and test.csv (obtained from Kaggle, see Acknowledgements).
 
 ## Results
