@@ -6,7 +6,7 @@ The aim of this project is to analyse data of Health Insurance customers and pre
 2. Are there any communication channels that are more successful in convincing customers?
 3. Taking into account all the data, predict whether a customer would be interested in a Vehicle Insurance.
 
-More information about the context of this task can be found in Kaggle [here](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction)
+More information about the context of this task can be found in Kaggle [here](https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction).
 
 ## Installation:
 The above analysis requires Python 3 versions. No libraries other than the ones coming with the Anaconda distribution are required. 
